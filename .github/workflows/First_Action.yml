@@ -9,3 +9,7 @@ jobs:
         run: echo "bonjour tout le monde"
       - name: print bonsoir
         run: echo "bonsoir tout le monde"
+      - name: print Hello
+        run: echo "Hello tout le monde"
+      - name: print Salut
+        run: echo "Salut tout le monde"
